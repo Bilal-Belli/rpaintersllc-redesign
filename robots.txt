@@ -1,0 +1,11 @@
+# robots.txt for https://rpaintersllc.com/
+
+# Allow all crawlers full access
+User-agent: *
+Allow: /
+Allow: /services/   # optional: keep services images indexed
+Allow: /images/   # optional: keep images indexed
+Allow: /logo/   # optional: keep logos indexed
+
+# Sitemap location
+Sitemap: https://rpaintersllc.com/sitemap.xml
